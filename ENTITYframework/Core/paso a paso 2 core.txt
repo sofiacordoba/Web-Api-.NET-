@@ -1,0 +1,77 @@
+Crear un servicio de WEBAPI CORES
+--Agregar EF CORE (SQL-Tools)
+--Revisar ORM -DBSET-BASECONTEXT
+--Registrar CadenaConexión en el archivo appsetting
+--statup registrar BASECONTEXT
+--Crear el controler agregar inyección de dependencia(propiedad y el constructor)
+--Programar los métodos de acción
+--GET
+--inicializar el servicio
+--Test browser
+-------------------------------->>>>>>>
+
+Crear un servicio de WEBAPI CORE (Web Application)
+**Agregar EF CORE (SQL-Tools)
+
+**Revisar ORM -DBSET-BASECONTEXT:
+--->ORM: es hacer que te arme las clases a partir de la base de datos.
+	 utilizamos un comando para que las importe a la carpeta Models, y agregamos los atributos.
+--->Registrar CadenaConexión en el archivo appsetting (nombre servidor, nombre base de datos)
+--->startup registrar BASECONTEXT
+	creo la carpeta Data con el Context de cada clase (ej BaseAutorContext = tabla)
+	tienen que estar heredados del BaseContext
+
+**Crear el controller, agregar inyección de dependencia ( en propiedades y el constructor)  --> carpeta Controllers
+--->Programar los métodos de acción
+--GET
+----> aquí se encuentra:
+ el ENDPOINT de web api (URL's que reciben o retornan información de un Web API)
+ el ROUTE (Indica a qué dirección debemos hacer la petición HTTP para invocar las acciones del controlador.)
+
+**Agrego las Migrations y actualizo la base de datos.
+(Las migraciones son clases de c# que indican los cambios a hacer en la bd, para que se actualice el mapeo,
+o sea que se reflejen los cambios del código)
+
+**inicializar el servicio  (api/autor)
+--Test browser
+--------------------------------
+
+¿Cuál es la idea fundamental de tener un Web Api?
+La idea fundamental de tener un web API es que tendremos clientes que harán peticiones HTTP al web API. 
+Estas peticiones HTTP se hacen a  un conjunto de URLs de nuestro dominio. A estas URLs las llamamos endpoints del Web API,
+es decir que un endpoint es donde reside un recurso  que representa alguna funcionalidad que brinda el Web API.
+
+¿Qué es NET?
+Es una plataforma abierta de desarrollo creada por Microsoft, para el desarrollo de multiples aplicaciones.
+
+Ventajas de usar NET:
+Tiene soporte al desarrollo de distintas aplicaciones como desktop, web, rest, mobile, etc sobre una misma plataforma de desarrollo.
+
+¿Como harias para reutilizar codigo entre .NET Framework con .NET Core?
+A traves de .NET STANDAR, ya que este permite crear librerias que puedan ser usados entre las distintas aplicaciones de .NET.
+
+¿Qué es LinQ?
+Nos permite manipular distintas fuentes de datos a traves de un lenguaje de query que propone este.
+
+¿Para qué sirve Using?
+Es una palabra reservada que automatiza la liberacion de los objetos que implementan la interfaz IDisponsable en vez de hacerlo a mano.
+
+¿Qué es Common Language Runtime?
+Todos los lenguajes soportados en .NET (como c# o VB) se convierten al final en CLR para que pueda ser interpretado por la máquina.
+ 
+¿Como funciona la Inyección de Dependencias?
+Es crear una interface que expone los métodos de una clase implementada.
+
+Diferencia entre clase abstracta y una interface:
+-Una clase abstracta puede tener métodos que sean abstractos o que no lo sean, mientras que las interfaces sólo y exclusivamente pueden
+definir métodos abstractos.
+-En una clase abstracta podemos incluir un constructor, mientras que en una interfaz no
+-Cuando utilizamos interfaces, podemos implementar múltiples interfaces. Mientras que solo podemos utilizar una clase abstracta como base.
+
+*¿Qué es ASP.Net Core?
+ ASP. NET Core es la evolución del framework ASP.NET:
+Con ASP.NET Podemos:
+ desarrollar aplicaciones web modernas listas para funcionar en la nube y que puedan ejecutarse en distintas plataformas como Windows,
+ Linux y Mac OS, además que sean fáciles de probar con pruebas automáticas  y que sean de alto rendimiento.
+ASP.NET Core nos permite hacer inyección de dependencias (Dependency Injection) de una manera muy simple pues viene por omisión 
+con un contenedor de inversión de controles (inversion of control).

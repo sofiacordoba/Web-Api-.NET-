@@ -1,0 +1,15 @@
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.csprojAssemblyReference.cache
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.Properties.Resources.resources
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.csproj.GenerateResource.cache
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.csproj.CoreCompileInputs.cache
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.Form1.resources
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\bin\Debug\WindowsEF.exe.config
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\bin\Debug\WindowsEF.exe
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\bin\Debug\WindowsEF.pdb
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\bin\Debug\EntityFramework.dll
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\bin\Debug\EntityFramework.xml
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.csproj.CopyComplete
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.exe
+D:\Escritorio\Accademy .NET Sofi\WebApi\WindowsEF\WindowsEF\obj\Debug\WindowsEF.pdb

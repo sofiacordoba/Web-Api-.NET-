@@ -1,0 +1,19 @@
+1) Crear nuevo proyecto:   Aplicación de Windows Forms (.NET Framework)
+- nombre : WindowsEF  (por ejemplo)
+a) Crear una carpeta (en la clase): Data
+b) en la solución:  Botón derecho--> Administrar paquetes NuGet..
+- examinar --> busco EntityFramework, selecciono el proyecto en el que voy a trabajar (WindowsEf)
+(version 6.2.2)  --> Instalar
+c) botón derecho en Data-->agregar--> Nuevo elemento --> Datos--> ADO.NET Entity Data Model
+-nombre: PubsContext (por ejemplo)
+--> Code First desde base de datos --> selecciono mi base de datos, y si no aparece --> Nueva conexión
+--> origen de datos: Microsoft SQL Server (SqlClient) , nombre del servidor: .  , selecciono la base
+de datos --> Probar conexión , aceptar.
+--> selecciono las tablas con las que voy a trabajar , pongo check en "poner en plural o en singular
+los nombres de objeto generados"... Finalizar
+d)Cambio las minusculas por mayusculas en las entidades
+e) en Data, agregar elemento, Diagrama de clases / Diseñador de clases --> arrastro todas las entidades
+en el centro.
+
+f) Crear la carpeta Repository ---> agregar la clase AuthorRepository
+********IMPORTANTE: Agrego el using.WindowsEF.Data  (donde tengo las entidades)

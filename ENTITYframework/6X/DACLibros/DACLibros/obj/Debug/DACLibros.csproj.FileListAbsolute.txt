@@ -1,0 +1,12 @@
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\bin\Debug\DACLibros.dll.config
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\bin\Debug\DACLibros.dll
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\bin\Debug\DACLibros.pdb
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\bin\Debug\EntityFramework.dll
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\bin\Debug\EntityFramework.xml
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\obj\Debug\DACLibros.csprojAssemblyReference.cache
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\obj\Debug\DACLibros.csproj.CoreCompileInputs.cache
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\obj\Debug\DACLibros.csproj.CopyComplete
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\obj\Debug\DACLibros.dll
+D:\Escritorio\Accademy .NET Sofi\WebApi\DACLibros\DACLibros\obj\Debug\DACLibros.pdb

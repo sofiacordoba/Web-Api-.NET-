@@ -1,0 +1,12 @@
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\chorche\source\repos\Practica09EntitiyFrameworkTP\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
